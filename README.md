@@ -55,7 +55,7 @@ When I’m not coding, you can find me playing a strategic game of chess or enjo
   </a>
 </div>
 <div align="center" justify-content="center">
-  <a href="https://github.com/MuhammadMuneebShafiq" target="_blank">
+  <a href="https://github.com/munib123" target="_blank">
     <img src="https://img.shields.io/badge/-Github-0d1117?style=flat&logo=Github&logoColor=white" />
   </a>
 </div>
