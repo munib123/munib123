@@ -65,7 +65,7 @@ When I’m not coding, you can find me playing a strategic game of chess or enjo
 ## 📊 My GitHub Stats:
 <table align="center" width="100%" height="100%">
   <tr>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMuneebShafiq&theme=github_dark" alt="Muhammad Muneeb Shafiq GitHub Stats" /></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munib123&theme=github_dark" alt="Muhammad Muneeb Shafiq GitHub Stats" /></td>
   </tr>
 </table>
 <h2 align="center">💻 Below are my repos ⬇️</h2>
