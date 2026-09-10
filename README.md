@@ -8,7 +8,7 @@
 
 ## 👋 Welcome to My GitHub!
 
-Hi, I'm **Muhammad Muneeb Shafiq**, an **AI Engineer and Data Scientist** who builds applied AI systems end to end: **RAG pipelines**, **multi-agent workflows**, **LLM-powered products**, and the data analysis that grounds them. I started in data science and competitive problem solving, and today most of my work is shipping production-style AI: retrieval systems grounded in real-world data, agent orchestration with human-in-the-loop approval gates, and full-stack apps built around them.
+Hi, I'm **Muhammad Muneeb Shafiq**, an **AI Engineer** who builds applied AI systems end to end: **RAG pipelines**, **multi-agent workflows**, **LLM-powered products**, and the data analysis that grounds them. I started in data science and competitive problem solving, and today most of my work is shipping production-style AI: retrieval systems grounded in real-world data, agent orchestration with human-in-the-loop approval gates, and full-stack apps built around them.
 
 ---
 
@@ -81,7 +81,7 @@ When I'm not coding, you can find me playing a strategic game of chess or enjoyi
 ## 🌐 Connect with Me
 
 <div align="center" justify-content="center">
-<a href="https://www.linkedin.com/in/muneeb-zehel" target="_blank">
+<a href="https://www.linkedin.com/in/muneebshafiq-ai" target="_blank">
 <img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:muneebshafique298@gmail.com">
