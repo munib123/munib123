@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Muhammad Muneeb Shafiq</h1>
-  <p>AI Engineer | Machine Learning Engineer | Data Scientist</p>
+  <p>AI Engineer | Machine Learning Engineer </p>
   <p>Building applied AI products, retrieval-augmented systems, multi-agent workflows, and reliable data-driven applications.</p>
 </div>
 
