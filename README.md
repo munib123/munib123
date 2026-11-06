@@ -1,113 +1,81 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=ffffff&center=true&vCenter=true&width=1000&lines=Muneeb+Is+Here;AI+Engineer+%7C+Data+Scientist;Welcome+To+My+GitHub+Account" />
-  </h1>
+  <h1>Muhammad Muneeb Shafiq</h1>
+  <p>AI Engineer | Machine Learning Engineer | Data Scientist</p>
+  <p>Building applied AI products, retrieval-augmented systems, multi-agent workflows, and reliable data-driven applications.</p>
 </div>
 
 ---
 
-## 👋 Welcome to My GitHub!
+## About
 
-Hi, I'm **Muhammad Muneeb Shafiq**, an **AI Engineer** who builds applied AI systems end to end: **RAG pipelines**, **multi-agent workflows**, **LLM-powered products**, and the data analysis that grounds them. I started in data science and competitive problem solving, and today most of my work is shipping production-style AI: retrieval systems grounded in real-world data, agent orchestration with human-in-the-loop approval gates, and full-stack apps built around them.
+I build applied AI systems end to end, from data pipelines and model experimentation to backend services and user-facing products. My interests include retrieval-augmented generation, LLM applications, AI agents, application security, machine learning, and analytics.
 
----
+## Current Focus
 
-## 🔭 What I'm Building Now
+- **RAMPART** — A code-security scanner that combines Semgrep and Bandit with Joern code analysis, a retrieval-augmented knowledge base of disclosed vulnerabilities, and LLM-assisted finding verification. The project also explores fix generation and re-verification. [View the repository](https://github.com/munib123/RAMPART)
+- **The Morrow (Personal Morning Paper)** — A personalized daily news product built for NaSCon'26. It turns articles from more than 100 sources into a finite, reader-specific edition, with a newspaper-style web experience and PDF, topic-based ranking, and a feedback-driven learning loop. [Try the live demo](https://personal-morning-paper-three.vercel.app) or [view the repository](https://github.com/munib123/personal-morning-paper).
+- **MLOps Wine Quality Project** — A collaborative binary-classification project using the UCI Red Wine Quality dataset, with DVC data and pipeline versioning, reproducible Python dependencies, automated tests, linting, and CI practices. [View the repository](https://github.com/munib123/mlops_Assignment)
+- **Multi-Agent Course Factory** — An eight-agent content-production pipeline for research, curriculum design, presentations, assessments, labs, quality review, teaching assistance, and production.
+- **AI Alpha Mining** — Research into LLM-agent-generated quantitative alpha factors for the BigAlpha 2026 competition.
+- **Symufolk HRIS** — A modular HR platform for South Asian SMEs, with a configurable statutory payroll engine and a React application.
 
-- 🛡️ **RAMPART** - An AI-powered security scanner (my flagship project). It runs static analysis (Semgrep / Bandit), grounds every finding in a **RAG knowledge base of real disclosed vulnerabilities** (ChromaDB), has an LLM verify each finding against retrieved real-world exemplars, and outputs a calm, ranked report with confidence scores and suggested fixes. Built with **FastAPI + React + Tauri** as a desktop app, with JWT auth and Postgres persistence.
-- 🤖 **Multi-Agent Course Factory** - An 8-agent content production pipeline (research analyst, curriculum architect, deck writer, assessment designer, lab engineer, QA reviewer, TA agent, producer) driven by a strict **state machine with human approval gates**, per-agent security boundaries, and cost-aware model routing.
-- 📈 **AI Alpha Mining (BigAlpha 2026)** - **LLM-agent-generated quantitative alpha factors** for a hedge-fund research competition, with self-validating submission notebooks and full prompt/response audit trails for AI provenance.
-- 🏢 **Symufolk HRIS** - A people-first HR platform for South Asian SMEs: **FastAPI modular monolith** with a config-driven statutory payroll engine, React SPA, and 100+ automated tests including payroll golden cases.
+Some work is private because it involves client or competition projects. I am happy to discuss the ideas and engineering behind it.
 
-> These repos are currently private (client and competition work). Happy to walk through any of them, just reach out!
+## Featured Projects
 
----
+| Project | Description | Technologies |
+|---|---|---|
+| [RAMPART](https://github.com/munib123/RAMPART) | Security scanner that grounds and verifies code findings using vulnerability data and code analysis. | Python, FastAPI, React, TypeScript, RAG, ChromaDB, Semgrep, Bandit, Joern |
+| [The Morrow](https://github.com/munib123/personal-morning-paper) | Personalized news editions for the web and PDF, with reader-specific ranking and a learning loop. [Live demo](https://personal-morning-paper-three.vercel.app) | TypeScript, Next.js, Supabase, PostgreSQL, pgvector, Gemini |
+| [DocSpeak](https://github.com/munib123/DocSpeak) | Document assistant for asking questions about uploaded files, with context-aware answers, text-to-speech, and chat history. | Python, RAG |
+| [Travel Assistance Chatbot](https://github.com/munib123/Travel_Assistance_Chatbot) | Conversational travel assistant. [Try it on Hugging Face Spaces](https://huggingface.co/spaces/munibz/travel_chatbot) | Python, conversational AI |
+| [ElitePickAI](https://github.com/munib123/elitepickai) | Web frontend for an AI sports-picks product. | Vite, React, TypeScript, shadcn/ui, Tailwind |
+| [MLOps Assignment](https://github.com/munib123/mlops_Assignment) | Reproducible wine-quality classification project with data and pipeline versioning and automated quality checks. | Python, DVC, pytest, Ruff |
+| [Loan-Sherlock](https://github.com/munib123/Loan-Sherlock) | Machine-learning loan approval system for banks. | Python, scikit-learn, Jupyter |
+| [KPI Decline Analysis](https://github.com/munib123/KPI-Decline-Analysis) | Diagnostic analysis of declining business KPIs. | Python, Jupyter |
+| [Audit Tracker](https://github.com/munib123/Audit-Tracker) | Company audit analysis and reporting. | Power BI |
+| [Facility Management System](https://github.com/munib123/facility_management_system) | Facility-management application. | See repository |
+| [Stack Overflow Developer Survey 2024](https://github.com/munib123/Devs_Survey_2024) | Analysis of the 2024 developer survey. | See repository |
+| [Credit Card Transaction Report](https://github.com/munib123/Credit_card_transaction-_report) | Credit-card transaction analysis and reporting. | Power BI |
 
-## 🚀 Featured Public Projects
+## Skills and Tools
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [DocSpeak](https://github.com/munib123/DocSpeak) | **RAG document assistant**: upload PDF/DOCX, ask questions, get context-aware answers with text-to-speech output and chat history | Python, RAG, Gradio |
-| [Travel Assistance Chatbot](https://github.com/munib123/Travel_Assistance_Chatbot) | Conversational travel assistant, live on [Hugging Face Spaces](https://huggingface.co/spaces/munibz/travel_chatbot) | Groq, Gradio, Hugging Face |
-| [ElitePickAI](https://github.com/munib123/elitepickai) | Modern web frontend for an AI picks product | Vite, React, TypeScript, shadcn/ui, Tailwind |
-| [Loan-Sherlock](https://github.com/munib123/Loan-Sherlock) | ML-powered loan approval system for banks | Python, scikit-learn, Jupyter |
-| [KPI-Decline-Analysis](https://github.com/munib123/KPI-Decline-Analysis) | Diagnostic analysis of declining business KPIs | Python, Jupyter |
-| [Audit-Tracker](https://github.com/munib123/Audit-Tracker) | Extensive analysis of company audits | Power BI |
+**AI and machine learning:** Retrieval-augmented generation, LLM applications, multi-agent systems, embeddings, ChromaDB, scikit-learn
 
-**More:** [Facility Management System](https://github.com/munib123/facility_management_system) · [Devs Survey 2024 Analysis](https://github.com/munib123/Devs_Survey_2024) · [Credit Card Transactions Report](https://github.com/munib123/Credit_card_transaction-_report) · [Budget Management System](https://github.com/munib123/Budget-Management-System) · [AI Search Puzzles (8-Puzzle, Minimax, Knights & Knaves)](https://github.com/munib123/Solve_8_Puzzle_Game)
+**Backend and data:** Python, FastAPI, PostgreSQL, Supabase, SQL, DVC
 
----
+**Frontend and applications:** TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS
 
-## 🛠️ Tech I Work With
+**Testing and analytics:** pytest, Ruff, Jupyter, Power BI
+
+## Achievements
+
+- Solved more than 300 problems on LeetCode and more than 150 problems on Codeforces.
+- Served as a Campus Ambassador for the Artificial Intelligence Community of Pakistan.
+- Represented my university as a Campus Ambassador at Devsinc.
+
+## Collaboration
+
+I am open to collaborating on AI engineering, RAG, agentic systems, machine learning, application security, and data analysis. Feel free to reach out to discuss a project or exchange ideas.
+
+## Beyond Work
+
+I enjoy playing chess and card games.
+
+## Connect
 
 <div align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat" /> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=flat" /> <img src="https://img.shields.io/badge/ChromaDB-FFCA28?style=flat" /> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-
-**Backend & Data**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-
-**Frontend & Apps**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat" />
-
+  <a href="https://www.linkedin.com/in/muneebshafiq-ai" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="mailto:muneebshafique298@gmail.com">Email</a> ·
+  <a href="https://leetcode.com/u/Munibz/" target="_blank" rel="noopener noreferrer">LeetCode</a> ·
+  <a href="https://github.com/munib123" target="_blank" rel="noopener noreferrer">GitHub</a> ·
+  <a href="https://muneebshafiq.me" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </div>
 
----
+## GitHub Stats
 
-## 🏆 Achievements
-
-- Solved **300+ problems** on **LeetCode** and **150+ problems** on **Codeforces**, refining my problem-solving and algorithmic skills.
-- Served as a **Campus Ambassador** at the **Artificial Intelligence Community of Pakistan**.
-- Represented my university as a **Campus Ambassador** at **Devsinc**.
-
----
-
-## 🌟 Let's Collaborate
-
-I'm open to collaborations on **AI Engineering** (RAG, agents, LLM apps), **Machine Learning**, and **Data Analysis** projects. If you have an exciting project or want to discuss ideas, feel free to connect!
-
----
-
-## 🎯 Fun Fact
-
-When I'm not coding, you can find me playing a strategic game of chess or enjoying a good card game.
-
----
-
-## 🌐 Connect with Me
-
-<div align="center" justify-content="center">
-<a href="https://www.linkedin.com/in/muneebshafiq-ai" target="_blank">
-<img src="https://img.shields.io/badge/-%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="mailto:muneebshafique298@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Munibz/" target="_blank">
-<img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white" />
-</a>
-<a href="https://github.com/munib123" target="_blank">
-<img src="https://img.shields.io/badge/-Github-0d1117?style=flat&logo=Github&logoColor=white" />
-</a>
-<a href="https://muneebshafiq.me" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munib123&theme=github_dark" alt="Muhammad Muneeb Shafiq's GitHub profile summary" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<table align="center" width="100%" height="100%">
-<tr>
-<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munib123&theme=github_dark" alt="Muhammad Muneeb Shafiq GitHub Stats" /></td>
-</tr>
-</table>
-
-<h2 align="center">💻 Check out my repositories below ⬇️</h2>
-
----
+<p align="center">Explore my repositories below.</p>
