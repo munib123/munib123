@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=ffffff&center=true&vCenter=true&width=1000&lines=Muhammad+Muneeb+Shafiq;AI+Engineer+%7C+Machine+Learning+Engineer;Building+Applied+AI+Systems" alt=" Muneeb Shafiq | AI Engineer | Building Applied AI Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=ffffff&center=true&vCenter=true&width=1000&lines=Muneeb+Shafiq;AI+Engineer+%7C+Machine+Learning+Engineer;Building+Applied+AI+Systems" alt=" Muneeb Shafiq | AI Engineer | Building Applied AI Systems" />
   </h1>
   <p>Building applied AI products, retrieval-augmented systems, multi-agent workflows, and reliable data-driven applications.</p>
 </div>
